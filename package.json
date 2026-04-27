@@ -4,8 +4,8 @@
   "description": "A powerful Facebook Messenger Bot made by Rudra Jaat.",
   "main": "rudra.js",
   "engines": {
-    "node": "18.x",
-    "npm": "10.0.0"
+    "node": "20.15.1",
+    "npm": "10.7.0"
   },
   "scripts": {
     "start": "node index.js",
